@@ -760,8 +760,7 @@ img {
   text-align: center;
   color: #212121;
 }
-.form-modal {
-}
+
 .wrap-input {
   position: relative;
   margin-bottom: 28px;
@@ -805,12 +804,7 @@ color: #757575;
 
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.name-icon {
-}
-.tel-icon {
-}
-.modal-mail {
-}
+
 .modal-area {
   resize: none;
   outline: transparent;
